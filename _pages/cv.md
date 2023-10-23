@@ -56,7 +56,7 @@ Work experience
     Topic: Machine Learning, Big Data Analytics and Cloud Deployment<br />
     Colleague: Marc Hölzl, Christian Lingg, Fabian Kreutmayr, Michael Reich
   
-# Skills
+<!---Skills
 # ======
 # * Skill 1
 # * Skill 2
@@ -83,6 +83,7 @@ Talks
 #   <ul>{% for post in site.teaching %}
 #     {% include archive-single-cv.html %}
 #   {% endfor %}</ul>
+-->
 
 Scholarships and Prizes
 ======
